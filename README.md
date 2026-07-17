@@ -1,8 +1,8 @@
 # Limitless ⚡
 
-Hello. I'm Geomar. I'm a quant trader & programmer. At least those are my goals.
+Hello. I'm Geomar. I'm an AI/machine learning programmer looking to break into quantitative finance and/or AI engineering.
 
-I used to be an ICT trader. But after researching better ways to use my time & money, I stumbled upon quant finance & how to code trading strategies. Completely fell in love with it, and here we are.
+I used to be an ICT trader. But after researching better ways to use my time & money, I stumbled upon quantitative finance & how to code trading strategies. Completely fell in love with it, and here we are. Then learned about the power of machine learning & AI. My plans were set after it.
 
 # Current Projects:
 
@@ -14,17 +14,16 @@ I used to be an ICT trader. But after researching better ways to use my time & m
 
 1. Start Going to English Classes. Regardless of Whether I Know English Already.
 2. Get a Job as An English Teacher in The Same Institution I Graduated From.
-3. Save Up Huge Capital to Start Deploying Trading Strategies on Prop Firms. And Attend College Outside My Hometown.
-4. Graduate With a 3.8+ GPA & With Honors as a Computer Science Major.
-5. Go to The USA & Pursue a Master's or PhD Degree (Maybe Tech or Finance-Related).
-6. Try to Get an Intership at a Quant Firm or Hedge Fund.
-7. Get a Job as a Quant Trader/Researcher/Developer & Live in The USA.
-8. Try Not to Lose My Mind in The Process.
+3. Save Up Huge Capital to Start Deploying Trading Strategies on Prop Firms.
+4. Attend College Outside My Hometown.
+5. Graduate With a 3.8+ GPA & With Honors as a Computer Science Major.
+6. Go to The USA & Pursue a Master's or PhD Degree (Maybe Tech or Finance-Related).
+7. Try to Get an Internship at a Quant Firm, Hedge Fund, or AI-Related Startup.
+8. Get a Job as a Quant Trader/Researcher/Developer Or AI Engineer & Live in The USA.
+9. Try Not to Lose My Mind in The Process.
 
 ## Timeline: 4-8 Years to Achieve Everything
 
 I created the roadmap just for me to visualize it. And to visualize the craziness I'm going to pursue. But I know I will achieve at least some of it if I push my limits and I believe in myself.
 
 It will be hard, but I know it's possible. If I start working on it now rather than "when I'm prepared".
-
-Let's see how it goes 💻
