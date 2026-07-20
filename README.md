@@ -7,8 +7,8 @@ I used to be an ICT trader. But after researching better ways to use my time & m
 # Current Projects:
 
 1. Learn to Code By Using Claude as My Teacher + Go Through CS50x & CS50P.
-2. Start Developing My Own Trading Strategies on Python & Experimenting With New Ideas.
-3. Grow a Small Audience on X & Substack By Sharing What I'm Working On & Learning About.
+2. Start Developing My Own Trading Strategies in Python & Experimenting With New Ideas.
+3. Grow an Audience on X By Sharing What I'm Working On & Learning About.
 
 # Roadmap
 
