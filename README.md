@@ -8,4 +8,3 @@ I used to be an ICT trader. But after researching better ways to use my time & m
 2. Finish CS50x & CS50P.
 3. Develop trading algorithms & raise capital with prop firms.
 4. Grow an audience online while building.
-5. Deploy a simple app to test vibe coding (outside everything else).
