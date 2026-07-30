@@ -1,1 +1,1 @@
-Building quantitative ML models & trading strategies.
+Student of Quantitative Research, Math, Physics & C++/Python
