@@ -1,8 +1,8 @@
 Hello.
 
-# Currently Building:
+# Currently Building
 
-1. Learning Python.
+1. Learning Python & C
 2. Learning mathematics & physics.
 
 # Built:
