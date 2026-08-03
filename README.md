@@ -1,10 +1,8 @@
-Hello.
+# Building:
 
-# Currently Building
-
-1. Learning Python & C.
-2. Learning mathematics & physics.
+- Learning Python & C.
+- Learning Mathematics & Physics.
 
 # Built:
 
-- *In progress...*
+- *In progress*
